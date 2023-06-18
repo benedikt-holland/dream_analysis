@@ -1,0 +1,5 @@
+*.txt
+*.csv
+/.conda
+/__pycache__
+mappings.py
