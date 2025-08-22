@@ -1,0 +1,4 @@
+ipykernel
+pandas
+jinja2
+spacy

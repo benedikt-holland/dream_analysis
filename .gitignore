@@ -1,5 +1,7 @@
 *.txt
+!requirements.txt
 *.csv
 /.conda
 /__pycache__
 mappings.py
+venv/
